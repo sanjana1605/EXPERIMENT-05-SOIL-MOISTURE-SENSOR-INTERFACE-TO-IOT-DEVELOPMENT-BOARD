@@ -1,9 +1,5 @@
 # EXPERIMENT 05 SOIL MOISTURE SENSOR INTERFACE TO IOT DEVELOPMENT BOARD
 
-### Name: Sanjana Sri N
-### Reg No: 2305003007
-### Dept: AIML
-
 ## Aim: 
 
 To Interface a Analog Input  (soil moisture sensor) to ARM IOT development board and write a  program to obtain  the data on the com port 
@@ -295,3 +291,4 @@ void Error_Handler(void)
  
 ## Result :
 Interfacing a Analog Input (soil moisture sensor) with ARM microcontroller based IOT development is executed and the results visualized on serial monitor 
+
